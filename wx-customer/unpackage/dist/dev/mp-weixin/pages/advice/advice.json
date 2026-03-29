@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "建议列表",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-empty": "/node-modules/uview-ui/components/u-empty/u-empty",
+    "u--text": "/node-modules/uview-ui/components/u--text/u--text",
+    "u-back-top": "/node-modules/uview-ui/components/u-back-top/u-back-top"
+  }
+}

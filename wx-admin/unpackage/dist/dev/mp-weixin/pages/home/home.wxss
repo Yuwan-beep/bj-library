@@ -1,0 +1,12 @@
+.title.data-v-92bb8f34 {
+  font-size: 40rpx;
+  height: 150rpx;
+  line-height: 150rpx;
+  font-weight: bold;
+  text-align: center;
+}
+.grid-text.data-v-92bb8f34 {
+  font-size: 14px;
+  color: #909399;
+  padding: 10rpx 0 20rpx 0rpx;
+}

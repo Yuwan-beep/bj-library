@@ -1,0 +1,82 @@
+.content.data-v-57280228 {
+  overflow: hidden;
+}
+.content image.data-v-57280228 {
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  z-index: -1;
+}
+.content .container.data-v-57280228 {
+  background: #fff;
+  margin: 350rpx 100rpx;
+  border-radius: 30rpx;
+  position: relative;
+}
+.content .container .tips.data-v-57280228 {
+  color: #6e9df4;
+  background: linear-gradient(to right, #004eea, #317efa);
+  border-radius: 20rpx 20rpx 0 0;
+  height: 40rpx;
+  line-height: 40rpx;
+  padding-left: 20rpx;
+}
+.content .container .logo.data-v-57280228 {
+  border-radius: 50%;
+  background: #3073f8;
+  width: 130rpx;
+  height: 130rpx;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: calc(50% - 75rpx);
+  margin-top: -90rpx;
+  box-shadow: 5rpx #4c4cff;
+}
+.content .container .logo image.data-v-57280228 {
+  width: 100rpx;
+  height: 100rpx;
+  z-index: 9;
+}
+.content .container .content-block.data-v-57280228 {
+  position: relative;
+  margin-top: 15rpx;
+  padding: 30rpx 30rpx 80rpx 30rpx;
+}
+.content .container .content-block .title.data-v-57280228 {
+  font-weight: bold;
+  font-size: 29rpx;
+  text-align: center;
+  height: 35rpx;
+  line-height: 35rpx;
+  padding-bottom: 15rpx;
+  border-bottom: 1rpx solid #eaeaec;
+}
+.content .container .content-block .account.data-v-57280228,
+.content .container .content-block .password.data-v-57280228 {
+  margin: 5rpx;
+  padding: 15rpx;
+  display: flex;
+  border-bottom: 1rpx solid #eaeaec;
+}
+.content .container .content-block .account input.data-v-57280228,
+.content .container .content-block .password input.data-v-57280228 {
+  margin-left: 5rpx;
+}
+.content .container .content-block .register.data-v-57280228 {
+  color: #2b6df8;
+  text-align: right;
+  margin-top: 25rpx;
+}
+.content .container .content-block .submit.data-v-57280228 {
+  width: 350rpx;
+  height: 90rpx;
+  text-align: center;
+  line-height: 90rpx;
+  background: #2b6df8;
+  border-radius: 20rpx;
+  color: #fff;
+  position: absolute;
+  left: calc(50% - 175rpx);
+  bottom: -45rpx;
+}

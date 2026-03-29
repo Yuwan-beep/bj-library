@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "建议详情",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u--text": "/node-modules/uview-ui/components/u--text/u--text",
+    "u-input": "/node-modules/uview-ui/components/u-input/u-input",
+    "u-button": "/node-modules/uview-ui/components/u-button/u-button"
+  }
+}

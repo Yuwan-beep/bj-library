@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "发布通知",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-input": "/node-modules/uview-ui/components/u-input/u-input",
+    "u--text": "/node-modules/uview-ui/components/u--text/u--text",
+    "u--textarea": "/node-modules/uview-ui/components/u--textarea/u--textarea",
+    "u-upload": "/node-modules/uview-ui/components/u-upload/u-upload"
+  }
+}
