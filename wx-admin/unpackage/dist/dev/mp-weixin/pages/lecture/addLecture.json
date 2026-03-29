@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "发布座谈会",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-input": "/node-modules/uview-ui/components/u-input/u-input",
+    "u--text": "/node-modules/uview-ui/components/u--text/u--text",
+    "u-button": "/node-modules/uview-ui/components/u-button/u-button",
+    "u-datetime-picker": "/node-modules/uview-ui/components/u-datetime-picker/u-datetime-picker",
+    "u-upload": "/node-modules/uview-ui/components/u-upload/u-upload"
+  }
+}

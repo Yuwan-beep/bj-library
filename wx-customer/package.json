@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "marked": "^15.0.11",
+    "moment": "^2.30.1",
+    "node-fetch": "^3.3.2",
+    "uview-ui": "^2.0.38"
+  }
+}

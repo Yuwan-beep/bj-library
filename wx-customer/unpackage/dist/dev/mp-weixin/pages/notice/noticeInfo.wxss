@@ -1,0 +1,27 @@
+.container.data-v-385bf4d8 {
+  border-radius: 7rpx;
+  background-color: #fff;
+  padding: 20rpx;
+  margin-bottom: 13rpx;
+  border-bottom: 1rpx solid #f8f8f8;
+}
+.container .body.data-v-385bf4d8 {
+  display: flex;
+  flex-direction: column;
+}
+.container .body .title.data-v-385bf4d8 {
+  margin-left: 6rpx;
+  color: #999;
+  font-size: 23rpx;
+}
+.container .body .content.data-v-385bf4d8 {
+  font-size: 25rpx;
+  color: #555;
+}
+.container .body .name.data-v-385bf4d8 {
+  font-size: 30rpx;
+  color: #333;
+  font-weight: bold;
+  word-break: break-all;
+  line-height: 45rpx;
+}
